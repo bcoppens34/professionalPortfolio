@@ -6,11 +6,11 @@
 }
 /* End of Global Styling */
   
-/* Start of Full Body Section Styling */
+/* Start of Full Body Styling */
 body {
     font-family: sans-serif
 }
-/* End of Full Body Section Styling */
+/* End of Full Body Styling */
   
 /* Start of Header Section Styling */
 header {
@@ -113,7 +113,7 @@ section {
     align-items: center;
 }
 
-/* "About Me" and "Contact Me" Sections Titles' Styling */
+/* "About Me" and "Contact Me" Styling */
 .section-title {
     display: flex;
     flex-wrap: wrap;
